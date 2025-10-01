@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "َAmid Color Picker",
+  "version": "1.0",
+  "description": "Color Picker For Developers. Coded By: Amid Ahadi - Amid-ahadi.ir",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Full Color Picker"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
